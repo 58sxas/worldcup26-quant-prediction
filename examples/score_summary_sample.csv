@@ -1,0 +1,3 @@
+source_game_id,viewer_datetime,viewer_timezone,stadium_datetime,stadium_timezone,match,stadium,probability_source,recommended_score,prob_home,prob_draw,prob_away
+8,2026-06-14T03:00:00+08:00,Asia/Taipei,2026-06-13T12:00:00-07:00,America/Los_Angeles,Qatar vs Switzerland,Levi's Stadium,cfwc_skill_only,0-2,0.10357112235005429,0.19018264974558988,0.7062462279043559
+7,2026-06-14T06:00:00+08:00,Asia/Taipei,2026-06-13T18:00:00-04:00,America/New_York,Brazil vs Morocco,MetLife Stadium,live_market:live_20260612T050225Z,1-1,0.5607385134008687,0.24971271026622016,0.18954877633291123

@@ -1,0 +1,61 @@
+{
+  "run_name": "score_prediction_sample",
+  "generated_at": "2026-06-13T05:51:06+00:00",
+  "match": "Qatar vs Switzerland",
+  "source_game_id": "8",
+  "match_date": "2026-06-13",
+  "stadium_timezone": "America/Los_Angeles",
+  "stadium_datetime_iso": "2026-06-13T12:00:00-07:00",
+  "utc_datetime": "2026-06-13T19:00:00+00:00",
+  "viewer_timezone": "Asia/Taipei",
+  "viewer_datetime": "2026-06-14T03:00:00+08:00",
+  "stadium": "Levi's Stadium",
+  "probability_source": "cfwc_skill_only",
+  "prob_home": 0.10357112235005429,
+  "prob_draw": 0.19018264974558988,
+  "prob_away": 0.7062462279043559,
+  "calibrated_recommended_score": "0-2",
+  "raw_top_score": "0-2",
+  "primary_cluster": [
+    {
+      "score": "0-2",
+      "outcome": "A",
+      "probability": 0.14561179669829152,
+      "rank_score": 0.15434850450018903
+    },
+    {
+      "score": "0-1",
+      "outcome": "A",
+      "probability": 0.14345989822491778,
+      "rank_score": 0.13990209274893983
+    }
+  ],
+  "top_scores": [
+    {
+      "score": "0-2",
+      "outcome": "A",
+      "probability": 0.14561179669829152,
+      "rank_score": 0.15434850450018903
+    },
+    {
+      "score": "0-1",
+      "outcome": "A",
+      "probability": 0.14345989822491778,
+      "rank_score": 0.13990209274893983
+    },
+    {
+      "score": "0-3",
+      "outcome": "A",
+      "probability": 0.09853064909917725,
+      "rank_score": 0.10444248804512789
+    },
+    {
+      "score": "1-2",
+      "outcome": "A",
+      "probability": 0.09027931395294074,
+      "rank_score": 0.11292136589233828
+    }
+  ],
+  "source_cutoff": "2026-06-06",
+  "leakage_safe": 1
+}

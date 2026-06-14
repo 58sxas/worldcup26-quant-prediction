@@ -1,0 +1,7 @@
+{
+  "row_count": 104,
+  "all_stadium_timezones_known": true,
+  "source_id_order_utc_inversions": 23,
+  "stadium_local_time_order_utc_inversions": 5,
+  "loader_after_fix_utc_inversions": 0
+}
